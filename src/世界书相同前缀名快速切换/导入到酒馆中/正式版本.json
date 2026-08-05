@@ -1,0 +1,7 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d480",
+  "name": "世界书前缀快速切换",
+  "content": "import 'https://testingcf.jsdelivr.net/gh/zuozheyinguai/qie/dist/世界书相同前缀名快速切换/index.js'",
+  "info": "正式版本，请将 '你的GitHub用户名/你的仓库名' 替换为实际值后使用",
+  "buttons": []
+}
