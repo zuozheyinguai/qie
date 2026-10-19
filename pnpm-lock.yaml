@@ -3539,8 +3539,13 @@ packages:
     resolution: {integrity: sha512-SHiNtMOUGWBQJwzISiVYKu82GiV4QYGePp3odlY1tuKO7gPtphAT5R/py0fA6xtbgLL/RvtJZnU9b8s0F1q0Xg==}
     engines: {node: '>= 8.9.0'}
 
+<<<<<<< HEAD
   schema-utils@4.8.0:
     resolution: {integrity: sha512-D6ak0FU4RNCpVJQ+IOVURXKprTSij0dkyWAGjMXs/UddfdSFcjjjIFYJ4PwYU+3UKr+1BcDk2ze6IisgpvZtmw==}
+=======
+  schema-utils@4.8.1:
+    resolution: {integrity: sha512-x39pYlJPyH7Uge5QO64B9XGP9zLDc9WNmiQZc+CE3IzZPvMu3lHOuAMGpYNoPixEL7MSWlGhYTg5UlLSL8G6iw==}
+>>>>>>> a5317b873d6a11e0ca2f71d53e45bc23e81faf2a
     engines: {node: '>= 10.13.0'}
     hasBin: true
     peerDependencies:
@@ -6124,7 +6129,11 @@ snapshots:
       eslint: 10.13.0(jiti@2.7.0)
       micromatch: 4.0.8
       normalize-path: 3.0.0
+<<<<<<< HEAD
       schema-utils: 4.8.0(webpack@5.112.0)
+=======
+      schema-utils: 4.8.1(webpack@5.112.0)
+>>>>>>> a5317b873d6a11e0ca2f71d53e45bc23e81faf2a
       webpack: 5.112.0(postcss@8.5.31)(webpack-cli@7.2.3)
 
   eslint@10.13.0(jiti@2.7.0):
@@ -7223,7 +7232,11 @@ snapshots:
 
   mini-css-extract-plugin@2.10.2(webpack@5.112.0):
     dependencies:
+<<<<<<< HEAD
       schema-utils: 4.8.0(webpack@5.112.0)
+=======
+      schema-utils: 4.8.1(webpack@5.112.0)
+>>>>>>> a5317b873d6a11e0ca2f71d53e45bc23e81faf2a
       tapable: 2.3.3
       webpack: 5.112.0(postcss@8.5.31)(webpack-cli@7.2.3)
 
@@ -7241,7 +7254,11 @@ snapshots:
     dependencies:
       '@jridgewell/trace-mapping': 0.3.31
       jest-worker: 27.5.1
+<<<<<<< HEAD
       schema-utils: 4.8.0(webpack@5.112.0)
+=======
+      schema-utils: 4.8.1(webpack@5.112.0)
+>>>>>>> a5317b873d6a11e0ca2f71d53e45bc23e81faf2a
       terser: 5.51.2
       webpack: 5.112.0(postcss@8.5.31)(webpack-cli@7.2.3)
     optionalDependencies:
@@ -7808,7 +7825,11 @@ snapshots:
       ajv: 6.15.0
       ajv-keywords: 3.5.2(ajv@6.15.0)
 
+<<<<<<< HEAD
   schema-utils@4.8.0(webpack@5.112.0):
+=======
+  schema-utils@4.8.1(webpack@5.112.0):
+>>>>>>> a5317b873d6a11e0ca2f71d53e45bc23e81faf2a
     dependencies:
       '@types/json-schema': 7.0.15
       ajv: 8.20.0
@@ -8068,7 +8089,11 @@ snapshots:
     dependencies:
       '@jridgewell/trace-mapping': 0.3.31
       jest-worker: 27.5.1
+<<<<<<< HEAD
       schema-utils: 4.8.0(webpack@5.112.0)
+=======
+      schema-utils: 4.8.1(webpack@5.112.0)
+>>>>>>> a5317b873d6a11e0ca2f71d53e45bc23e81faf2a
       terser: 5.51.2
       webpack: 5.112.0(postcss@8.5.31)(webpack-cli@7.2.3)
     optionalDependencies:
@@ -8573,7 +8598,11 @@ snapshots:
       graceful-fs: 4.2.11
       mime-db: 1.54.0
       minimizer-webpack-plugin: 5.13.1(postcss@8.5.31)(webpack@5.112.0)
+<<<<<<< HEAD
       schema-utils: 4.8.0(webpack@5.112.0)
+=======
+      schema-utils: 4.8.1(webpack@5.112.0)
+>>>>>>> a5317b873d6a11e0ca2f71d53e45bc23e81faf2a
       tapable: 2.3.3
       watchpack: 2.6.3
       webpack-sources: 3.6.0
